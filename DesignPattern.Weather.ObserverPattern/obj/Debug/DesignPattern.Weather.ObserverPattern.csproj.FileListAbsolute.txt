@@ -1,0 +1,5 @@
+D:\CSharp\TestProject\DesignPattern\DesignPattern.Weather.ObserverPattern\bin\Debug\DesignPattern.Weather.ObserverPattern.exe.config
+D:\CSharp\TestProject\DesignPattern\DesignPattern.Weather.ObserverPattern\bin\Debug\DesignPattern.Weather.ObserverPattern.exe
+D:\CSharp\TestProject\DesignPattern\DesignPattern.Weather.ObserverPattern\bin\Debug\DesignPattern.Weather.ObserverPattern.pdb
+D:\CSharp\TestProject\DesignPattern\DesignPattern.Weather.ObserverPattern\obj\Debug\DesignPattern.Weather.ObserverPattern.exe
+D:\CSharp\TestProject\DesignPattern\DesignPattern.Weather.ObserverPattern\obj\Debug\DesignPattern.Weather.ObserverPattern.pdb

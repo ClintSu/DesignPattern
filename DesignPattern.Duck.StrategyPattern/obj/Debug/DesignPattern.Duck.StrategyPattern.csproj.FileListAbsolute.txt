@@ -1,0 +1,12 @@
+D:\CSharp\TestProject\DesignPattern\DesignPattern.Duck.StrategyPattern\DesignPattern.Duck.StrategyPattern\bin\Debug\DesignPattern.Duck.StrategyPattern.exe.config
+D:\CSharp\TestProject\DesignPattern\DesignPattern.Duck.StrategyPattern\DesignPattern.Duck.StrategyPattern\bin\Debug\DesignPattern.Duck.StrategyPattern.exe
+D:\CSharp\TestProject\DesignPattern\DesignPattern.Duck.StrategyPattern\DesignPattern.Duck.StrategyPattern\bin\Debug\DesignPattern.Duck.StrategyPattern.pdb
+D:\CSharp\TestProject\DesignPattern\DesignPattern.Duck.StrategyPattern\DesignPattern.Duck.StrategyPattern\obj\Debug\DesignPattern.Duck.StrategyPattern.csprojResolveAssemblyReference.cache
+D:\CSharp\TestProject\DesignPattern\DesignPattern.Duck.StrategyPattern\DesignPattern.Duck.StrategyPattern\obj\Debug\DesignPattern.Duck.StrategyPattern.exe
+D:\CSharp\TestProject\DesignPattern\DesignPattern.Duck.StrategyPattern\DesignPattern.Duck.StrategyPattern\obj\Debug\DesignPattern.Duck.StrategyPattern.pdb
+D:\CSharp\TestProject\DesignPattern\DesignPattern.Duck.StrategyPattern\bin\Debug\DesignPattern.Duck.StrategyPattern.exe.config
+D:\CSharp\TestProject\DesignPattern\DesignPattern.Duck.StrategyPattern\bin\Debug\DesignPattern.Duck.StrategyPattern.exe
+D:\CSharp\TestProject\DesignPattern\DesignPattern.Duck.StrategyPattern\bin\Debug\DesignPattern.Duck.StrategyPattern.pdb
+D:\CSharp\TestProject\DesignPattern\DesignPattern.Duck.StrategyPattern\obj\Debug\DesignPattern.Duck.StrategyPattern.csprojResolveAssemblyReference.cache
+D:\CSharp\TestProject\DesignPattern\DesignPattern.Duck.StrategyPattern\obj\Debug\DesignPattern.Duck.StrategyPattern.exe
+D:\CSharp\TestProject\DesignPattern\DesignPattern.Duck.StrategyPattern\obj\Debug\DesignPattern.Duck.StrategyPattern.pdb
