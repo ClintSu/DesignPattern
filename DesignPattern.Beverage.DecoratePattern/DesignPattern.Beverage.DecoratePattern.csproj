@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3504E599-A7EC-4732-BA26-58681BA4B57A}</ProjectGuid>
+    <ProjectGuid>{362C217C-AA56-484E-AEAA-15AC2619EDB4}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>DesignPattern.Weather.ObserverPattern</RootNamespace>
-    <AssemblyName>DesignPattern.Weather.ObserverPattern</AssemblyName>
+    <RootNamespace>DesignPattern.Beverage.DecoratePattern</RootNamespace>
+    <AssemblyName>DesignPattern.Beverage.DecoratePattern</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,20 +42,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DisplayElements\CurrentConditionsDisplay.cs" />
-    <Compile Include="DisplayElements\StatisticsDisplay.cs" />
-    <Compile Include="IDisplayElement.cs" />
-    <Compile Include="IObserver.cs" />
-    <Compile Include="ISubject.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="WeatherData.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="观察者模式.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

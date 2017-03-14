@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPattern.Duck.Strategy
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPattern.Weather.ObserverPattern", "DesignPattern.Weather.ObserverPattern\DesignPattern.Weather.ObserverPattern.csproj", "{3504E599-A7EC-4732-BA26-58681BA4B57A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPattern.Beverage.DecoratePattern", "DesignPattern.Beverage.DecoratePattern\DesignPattern.Beverage.DecoratePattern.csproj", "{362C217C-AA56-484E-AEAA-15AC2619EDB4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3504E599-A7EC-4732-BA26-58681BA4B57A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3504E599-A7EC-4732-BA26-58681BA4B57A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3504E599-A7EC-4732-BA26-58681BA4B57A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{362C217C-AA56-484E-AEAA-15AC2619EDB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{362C217C-AA56-484E-AEAA-15AC2619EDB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{362C217C-AA56-484E-AEAA-15AC2619EDB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{362C217C-AA56-484E-AEAA-15AC2619EDB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
