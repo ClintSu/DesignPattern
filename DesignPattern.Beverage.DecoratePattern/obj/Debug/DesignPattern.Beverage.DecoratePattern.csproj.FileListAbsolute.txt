@@ -1,0 +1,6 @@
+D:\CSharp\TestProject\DesignPattern\DesignPattern.Beverage.DecoratePattern\bin\Debug\DesignPattern.Beverage.DecoratePattern.exe.config
+D:\CSharp\TestProject\DesignPattern\DesignPattern.Beverage.DecoratePattern\bin\Debug\DesignPattern.Beverage.DecoratePattern.exe
+D:\CSharp\TestProject\DesignPattern\DesignPattern.Beverage.DecoratePattern\bin\Debug\DesignPattern.Beverage.DecoratePattern.pdb
+D:\CSharp\TestProject\DesignPattern\DesignPattern.Beverage.DecoratePattern\obj\Debug\DesignPattern.Beverage.DecoratePattern.csprojResolveAssemblyReference.cache
+D:\CSharp\TestProject\DesignPattern\DesignPattern.Beverage.DecoratePattern\obj\Debug\DesignPattern.Beverage.DecoratePattern.exe
+D:\CSharp\TestProject\DesignPattern\DesignPattern.Beverage.DecoratePattern\obj\Debug\DesignPattern.Beverage.DecoratePattern.pdb
