@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{362C217C-AA56-484E-AEAA-15AC2619EDB4}</ProjectGuid>
+    <ProjectGuid>{90A0DAA5-1A1B-4048-AD73-FA8C94E82FBE}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>DesignPattern.Beverage.DecoratePattern</RootNamespace>
-    <AssemblyName>DesignPattern.Beverage.DecoratePattern</AssemblyName>
+    <RootNamespace>DesignPattern.Chocolate.SingletonPattern</RootNamespace>
+    <AssemblyName>DesignPattern.Chocolate.SingletonPattern</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,14 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Beverage.cs" />
-    <Compile Include="Beverages\DarkRoase.cs" />
-    <Compile Include="Beverages\Espresso.cs" />
-    <Compile Include="Beverages\HouseBlend.cs" />
-    <Compile Include="Comdiments\Mocha.cs" />
-    <Compile Include="Comdiments\Soy.cs" />
-    <Compile Include="Comdiments\Whip.cs" />
-    <Compile Include="CondimentDecorator.cs" />
+    <Compile Include="ChocolateBoiler.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -57,7 +50,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="装饰模式.txt" />
+    <Content Include="单例模式.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

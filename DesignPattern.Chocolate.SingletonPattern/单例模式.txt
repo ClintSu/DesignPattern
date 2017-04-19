@@ -1,0 +1,17 @@
+﻿单例模式：确保一个类只有一个实例，并提供一个全局访问点。
+
+ volatile多用于多线程的环境，当一个变量定义为volatile时，读取这个变量的值时候每次都是从momery里面读取而不是从cache读。
+ 这样做是为了保证读取该变量的信息都是最新的，而无论其他线程如何更新这个变量。
+
+lock(objectA){codeB}
+看似简单，实际上有三个意思，这对于适当地使用它至关重要：
+1. objectA被lock了吗？没有则由我来lock，否则一直等待，直至objectA被释放。
+2. lock以后在执行codeB的期间其他线程不能调用codeB，也不能使用objectA。
+3. 执行完codeB之后释放objectA，并且codeB可以被其他线程访问。
+
+C#简单写法
+public class Singleton
+{
+    private Singleton(){}
+    public static readonly Singleton Instance = new Singleton();
+}  

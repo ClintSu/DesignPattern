@@ -1,0 +1,6 @@
+D:\CSharp\TestProject\DesignPattern\DesignPattern.Pizza.AbstractFactoryPattern\bin\Debug\DesignPattern.Pizza.AbstractFactoryPattern.exe.config
+D:\CSharp\TestProject\DesignPattern\DesignPattern.Pizza.AbstractFactoryPattern\bin\Debug\DesignPattern.Pizza.AbstractFactoryPattern.exe
+D:\CSharp\TestProject\DesignPattern\DesignPattern.Pizza.AbstractFactoryPattern\bin\Debug\DesignPattern.Pizza.AbstractFactoryPattern.pdb
+D:\CSharp\TestProject\DesignPattern\DesignPattern.Pizza.AbstractFactoryPattern\obj\Debug\DesignPattern.Pizza.AbstractFactoryPattern.csprojResolveAssemblyReference.cache
+D:\CSharp\TestProject\DesignPattern\DesignPattern.Pizza.AbstractFactoryPattern\obj\Debug\DesignPattern.Pizza.AbstractFactoryPattern.exe
+D:\CSharp\TestProject\DesignPattern\DesignPattern.Pizza.AbstractFactoryPattern\obj\Debug\DesignPattern.Pizza.AbstractFactoryPattern.pdb
