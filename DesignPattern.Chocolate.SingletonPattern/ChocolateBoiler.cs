@@ -13,7 +13,7 @@ namespace DesignPattern.Chocolate.SingletonPattern
         public bool IsEmpty() { return empty; }
         public bool IsBoilded() { return boiled; }
 
-        private volatile static ChocolateBoiler uniqueInstance;
+        private static volatile ChocolateBoiler uniqueInstance;
         private static readonly object lockObj = new object();
         public static ChocolateBoiler GetInstance()
         {

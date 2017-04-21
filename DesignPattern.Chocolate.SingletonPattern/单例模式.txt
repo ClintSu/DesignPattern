@@ -15,3 +15,11 @@ public class Singleton
     private Singleton(){}
     public static readonly Singleton Instance = new Singleton();
 }  
+
+
+单例模式和静态类的区别：
+1、static class 有更好的访问效率
+2、singleton 更容易测试
+3、singleton 支持延迟加载（重量级的对象, 延迟加载就显得非常重要）
+4、singleton 可继承
+5、singleton 在并发环境，维持状态信息有优势
