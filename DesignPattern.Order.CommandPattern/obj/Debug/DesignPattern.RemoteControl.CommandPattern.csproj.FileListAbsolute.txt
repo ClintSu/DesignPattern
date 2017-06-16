@@ -1,0 +1,5 @@
+D:\CSharp\DesignPattern\DesignPattern.Order.CommandPattern\bin\Debug\DesignPattern.RemoteControl.CommandPattern.exe
+D:\CSharp\DesignPattern\DesignPattern.Order.CommandPattern\bin\Debug\DesignPattern.RemoteControl.CommandPattern.pdb
+D:\CSharp\DesignPattern\DesignPattern.Order.CommandPattern\obj\Debug\DesignPattern.RemoteControl.CommandPattern.csprojResolveAssemblyReference.cache
+D:\CSharp\DesignPattern\DesignPattern.Order.CommandPattern\obj\Debug\DesignPattern.RemoteControl.CommandPattern.exe
+D:\CSharp\DesignPattern\DesignPattern.Order.CommandPattern\obj\Debug\DesignPattern.RemoteControl.CommandPattern.pdb

@@ -4,3 +4,9 @@ D:\CSharp\TestProject\DesignPattern\DesignPattern.Pizza.FactoryPattern\bin\Debug
 D:\CSharp\TestProject\DesignPattern\DesignPattern.Pizza.FactoryPattern\obj\Debug\DesignPattern.Pizza.FactoryMethodPattern.csprojResolveAssemblyReference.cache
 D:\CSharp\TestProject\DesignPattern\DesignPattern.Pizza.FactoryPattern\obj\Debug\DesignPattern.Pizza.FactoryMethodPattern.exe
 D:\CSharp\TestProject\DesignPattern\DesignPattern.Pizza.FactoryPattern\obj\Debug\DesignPattern.Pizza.FactoryMethodPattern.pdb
+D:\CSharp\DesignPattern\DesignPattern.Pizza.FactoryPattern\bin\Debug\DesignPattern.Pizza.FactoryMethodPattern.exe.config
+D:\CSharp\DesignPattern\DesignPattern.Pizza.FactoryPattern\bin\Debug\DesignPattern.Pizza.FactoryMethodPattern.exe
+D:\CSharp\DesignPattern\DesignPattern.Pizza.FactoryPattern\bin\Debug\DesignPattern.Pizza.FactoryMethodPattern.pdb
+D:\CSharp\DesignPattern\DesignPattern.Pizza.FactoryPattern\obj\Debug\DesignPattern.Pizza.FactoryMethodPattern.csprojResolveAssemblyReference.cache
+D:\CSharp\DesignPattern\DesignPattern.Pizza.FactoryPattern\obj\Debug\DesignPattern.Pizza.FactoryMethodPattern.exe
+D:\CSharp\DesignPattern\DesignPattern.Pizza.FactoryPattern\obj\Debug\DesignPattern.Pizza.FactoryMethodPattern.pdb
