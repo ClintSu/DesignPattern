@@ -20,7 +20,7 @@ namespace DesignPattern.Beverage.DecoratePattern.Comdiments
 
         public override string GetDescription()
         {
-            return beverage.GetDescription() + ",Mocha"; //摩卡
+           return beverage.GetDescription() + ",Mocha"; //摩卡
         }
     }
 }

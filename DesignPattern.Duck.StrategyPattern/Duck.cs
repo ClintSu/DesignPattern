@@ -13,11 +13,17 @@ namespace DesignPattern.Duck.StrategyPattern
 
         public abstract void Display();
 
+        /// <summary>
+        /// 叫
+        /// </summary>
         public void PerfomrQuack()
         {
             quackBehavior.Quack();
         }
 
+        /// <summary>
+        /// 飞
+        /// </summary>
         public void PerformFly()
         {
             flyBehavior.Fly();
