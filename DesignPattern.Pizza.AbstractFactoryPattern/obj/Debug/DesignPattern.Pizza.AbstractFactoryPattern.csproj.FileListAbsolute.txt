@@ -4,3 +4,10 @@ D:\CSharp\TestProject\DesignPattern\DesignPattern.Pizza.AbstractFactoryPattern\b
 D:\CSharp\TestProject\DesignPattern\DesignPattern.Pizza.AbstractFactoryPattern\obj\Debug\DesignPattern.Pizza.AbstractFactoryPattern.csprojResolveAssemblyReference.cache
 D:\CSharp\TestProject\DesignPattern\DesignPattern.Pizza.AbstractFactoryPattern\obj\Debug\DesignPattern.Pizza.AbstractFactoryPattern.exe
 D:\CSharp\TestProject\DesignPattern\DesignPattern.Pizza.AbstractFactoryPattern\obj\Debug\DesignPattern.Pizza.AbstractFactoryPattern.pdb
+D:\_online\DesignPattern\DesignPattern.Pizza.AbstractFactoryPattern\bin\Debug\DesignPattern.Pizza.AbstractFactoryPattern.exe.config
+D:\_online\DesignPattern\DesignPattern.Pizza.AbstractFactoryPattern\bin\Debug\DesignPattern.Pizza.AbstractFactoryPattern.exe
+D:\_online\DesignPattern\DesignPattern.Pizza.AbstractFactoryPattern\bin\Debug\DesignPattern.Pizza.AbstractFactoryPattern.pdb
+D:\_online\DesignPattern\DesignPattern.Pizza.AbstractFactoryPattern\obj\Debug\DesignPattern.Pizza.AbstractFactoryPattern.csprojAssemblyReference.cache
+D:\_online\DesignPattern\DesignPattern.Pizza.AbstractFactoryPattern\obj\Debug\DesignPattern.Pizza.AbstractFactoryPattern.csproj.CoreCompileInputs.cache
+D:\_online\DesignPattern\DesignPattern.Pizza.AbstractFactoryPattern\obj\Debug\DesignPattern.Pizza.AbstractFactoryPattern.exe
+D:\_online\DesignPattern\DesignPattern.Pizza.AbstractFactoryPattern\obj\Debug\DesignPattern.Pizza.AbstractFactoryPattern.pdb

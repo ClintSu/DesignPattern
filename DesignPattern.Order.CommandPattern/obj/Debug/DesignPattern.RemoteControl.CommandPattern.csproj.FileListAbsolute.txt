@@ -3,3 +3,9 @@ D:\CSharp\DesignPattern\DesignPattern.Order.CommandPattern\bin\Debug\DesignPatte
 D:\CSharp\DesignPattern\DesignPattern.Order.CommandPattern\obj\Debug\DesignPattern.RemoteControl.CommandPattern.csprojResolveAssemblyReference.cache
 D:\CSharp\DesignPattern\DesignPattern.Order.CommandPattern\obj\Debug\DesignPattern.RemoteControl.CommandPattern.exe
 D:\CSharp\DesignPattern\DesignPattern.Order.CommandPattern\obj\Debug\DesignPattern.RemoteControl.CommandPattern.pdb
+D:\_online\DesignPattern\DesignPattern.Order.CommandPattern\bin\Debug\DesignPattern.RemoteControl.CommandPattern.exe
+D:\_online\DesignPattern\DesignPattern.Order.CommandPattern\bin\Debug\DesignPattern.RemoteControl.CommandPattern.pdb
+D:\_online\DesignPattern\DesignPattern.Order.CommandPattern\obj\Debug\DesignPattern.RemoteControl.CommandPattern.csprojAssemblyReference.cache
+D:\_online\DesignPattern\DesignPattern.Order.CommandPattern\obj\Debug\DesignPattern.RemoteControl.CommandPattern.csproj.CoreCompileInputs.cache
+D:\_online\DesignPattern\DesignPattern.Order.CommandPattern\obj\Debug\DesignPattern.RemoteControl.CommandPattern.exe
+D:\_online\DesignPattern\DesignPattern.Order.CommandPattern\obj\Debug\DesignPattern.RemoteControl.CommandPattern.pdb

@@ -8,9 +8,9 @@ namespace DesignPattern.Weather.ObserverPattern
 {
     public interface ISubject
     {
-        void RegisterObserver(IObserver o);
-        void RemoveObserver(IObserver o);
-        void NotifyObservers();
+        void RegisterObserver(IObserver o);  //订阅
+        void RemoveObserver(IObserver o);  //取消
+        void NotifyObservers();  //通知
         
     }
 }

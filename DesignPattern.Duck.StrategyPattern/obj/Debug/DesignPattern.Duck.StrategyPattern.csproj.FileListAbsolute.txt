@@ -9,3 +9,10 @@ D:\CSharp\TestProject\DesignPattern\DesignPattern.Duck.StrategyPattern\bin\Debug
 D:\CSharp\TestProject\DesignPattern\DesignPattern.Duck.StrategyPattern\bin\Debug\DesignPattern.Duck.StrategyPattern.pdb
 D:\CSharp\TestProject\DesignPattern\DesignPattern.Duck.StrategyPattern\obj\Debug\DesignPattern.Duck.StrategyPattern.exe
 D:\CSharp\TestProject\DesignPattern\DesignPattern.Duck.StrategyPattern\obj\Debug\DesignPattern.Duck.StrategyPattern.pdb
+D:\_online\DesignPattern\DesignPattern.Duck.StrategyPattern\bin\Debug\DesignPattern.Duck.StrategyPattern.exe.config
+D:\_online\DesignPattern\DesignPattern.Duck.StrategyPattern\bin\Debug\DesignPattern.Duck.StrategyPattern.exe
+D:\_online\DesignPattern\DesignPattern.Duck.StrategyPattern\bin\Debug\DesignPattern.Duck.StrategyPattern.pdb
+D:\_online\DesignPattern\DesignPattern.Duck.StrategyPattern\obj\Debug\DesignPattern.Duck.StrategyPattern.csprojAssemblyReference.cache
+D:\_online\DesignPattern\DesignPattern.Duck.StrategyPattern\obj\Debug\DesignPattern.Duck.StrategyPattern.csproj.CoreCompileInputs.cache
+D:\_online\DesignPattern\DesignPattern.Duck.StrategyPattern\obj\Debug\DesignPattern.Duck.StrategyPattern.exe
+D:\_online\DesignPattern\DesignPattern.Duck.StrategyPattern\obj\Debug\DesignPattern.Duck.StrategyPattern.pdb

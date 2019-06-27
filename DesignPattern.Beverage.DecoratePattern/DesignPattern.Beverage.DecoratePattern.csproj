@@ -50,6 +50,7 @@
     <Compile Include="Comdiments\Soy.cs" />
     <Compile Include="Comdiments\Whip.cs" />
     <Compile Include="CondimentDecorator.cs" />
+    <Compile Include="Phone.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
